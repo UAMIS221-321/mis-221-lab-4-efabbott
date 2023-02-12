@@ -1,0 +1,15 @@
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/obj/Debug/net6.0/mis-221-lab-4-efabbott.csproj.AssemblyReference.cache
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/obj/Debug/net6.0/mis-221-lab-4-efabbott.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/obj/Debug/net6.0/mis-221-lab-4-efabbott.AssemblyInfoInputs.cache
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/obj/Debug/net6.0/mis-221-lab-4-efabbott.AssemblyInfo.cs
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/obj/Debug/net6.0/mis-221-lab-4-efabbott.csproj.CoreCompileInputs.cache
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/bin/Debug/net6.0/mis-221-lab-4-efabbott
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/bin/Debug/net6.0/mis-221-lab-4-efabbott.deps.json
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/bin/Debug/net6.0/mis-221-lab-4-efabbott.runtimeconfig.json
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/bin/Debug/net6.0/mis-221-lab-4-efabbott.dll
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/bin/Debug/net6.0/mis-221-lab-4-efabbott.pdb
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/obj/Debug/net6.0/mis-221-lab-4-efabbott.dll
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/obj/Debug/net6.0/refint/mis-221-lab-4-efabbott.dll
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/obj/Debug/net6.0/mis-221-lab-4-efabbott.pdb
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/obj/Debug/net6.0/mis-221-lab-4-efabbott.genruntimeconfig.cache
+/Users/ethanabbott/mis221/mis-221-lab-4-efabbott/obj/Debug/net6.0/ref/mis-221-lab-4-efabbott.dll
